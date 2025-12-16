@@ -1,2 +1,2 @@
-def chicke(x):
-    return 1
+def break(x):
+	return 67
