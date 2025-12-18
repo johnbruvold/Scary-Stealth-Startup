@@ -1,0 +1,29 @@
+# --- Python Basics ---
+__pycache__/
+*.pyc
+
+# --- Virtual Environments (Crucial) ---
+# These are large folders you made locally; teammates will make their own.
+venv/
+env/
+.env/
+.venv/
+
+# --- IDE Settings ---
+# Your teammates might use different editors, so don't force your settings on them.
+.vscode/
+.idea/
+*.swp
+
+# --- OS Junk Files ---
+.DS_Store
+Thumbs.db
+
+# --- Project Specifics ---
+# If you have large datasets or videos for OpenCV, ignore them too!
+# You don't want to upload a 500MB video file to GitHub.
+*.mp4
+*.avi
+*.jpg
+*.png
+data/
