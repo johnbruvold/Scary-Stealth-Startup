@@ -1,2 +1,2 @@
-def break(x):
+def breaks(x):
 	return 67

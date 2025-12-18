@@ -1,2 +1,0 @@
-# Scary-Stealth-Startup
-SHHHHHH
