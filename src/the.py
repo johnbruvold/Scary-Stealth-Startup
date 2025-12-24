@@ -1,7 +1,8 @@
 def breaks(x):
 	return 67
 
-import  
+import cv2
+cv2.
 
 
 
